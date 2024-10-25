@@ -25,7 +25,7 @@ public class switch_case {
 			break;
 
 		default:
-			System.out.println("Moeda não encontrada");
+			System.out.println("Moeda não encontrada!");
 		}
 		sc.close();
 
