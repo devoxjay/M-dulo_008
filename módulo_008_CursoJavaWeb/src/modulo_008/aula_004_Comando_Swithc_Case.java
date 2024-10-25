@@ -16,29 +16,29 @@ public class aula_004_Comando_Swithc_Case {
 		case 1:
 		case 2:
 		case 12:
-			System.out.println("A estação correspondente ao mês é o Verão");
+			System.out.println("A estação correspondente ao mês é o Verão.");
 			break;
 
 		case 3:
 		case 4:
 		case 5:
-			System.out.println("A estação correspondente ao mês é o Outono");
+			System.out.println("A estação correspondente ao mês é o Outono.");
 			break;
 
 		case 6:
 		case 7:
 		case 8:
-			System.out.println("A estação correspondente ao mês é o Inverno");
+			System.out.println("A estação correspondente ao mês é o Inverno.");
 			break;
 
 		case 9:
 		case 10:
 		case 11:
-			System.out.println("A estação correspondente ao mês é a Primavera");
+			System.out.println("A estação correspondente ao mês é a Primavera.");
 			break;
 
 		default:
-			System.out.println("Opção inválida! Digite um número de 1 á 12");
+			System.out.println("Opção inválida! Digite um número de 1 á 12.");
 			break;
 
 		}
